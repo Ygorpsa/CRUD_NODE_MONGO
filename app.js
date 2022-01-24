@@ -33,7 +33,7 @@ const mongoose = require("mongoose");
 
 //ligar a BD:
 mongoose.connect(
-  "mongodb+srv://test:nnn@nodejscluster.wb5oe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongodb+srv://<nome>:<password>@nodejscluster.wb5oe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 );
 // confirma ligação no console
 
