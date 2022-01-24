@@ -1,1 +1,7 @@
-Estou criando uma aplicação web MVC.
+CRUD MVC
+
+PARA INICIAR O PROJETO:
+
+$ npm install
+
+$ node start app.js
